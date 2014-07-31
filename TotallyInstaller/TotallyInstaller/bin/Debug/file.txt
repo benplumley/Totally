@@ -1,0 +1,23 @@
+This file must be kept as a placeholder. Do not rename or delete.
+
+Format of text files in this folder:
+
+Month dd, YYYY at HH:MMA/PM
+True
+:1:
+AMOUNT
+:2:
+SHOP
+:3:
+DESCRIPTION
+:4:
+CATEGORY
+:5:
+1
+:6:
+
+Example of a text file:
+
+January 27, 2014 at 09:38PMTrue:1:5.52:2:Tesco:3:Milk and eggs:4:Groceries:5:1:6:
+
+Notepad is unable to display line breaks properly. To see the text files as they are meant to appear, in order to better diagnose an error, copy the file address into your web browser.

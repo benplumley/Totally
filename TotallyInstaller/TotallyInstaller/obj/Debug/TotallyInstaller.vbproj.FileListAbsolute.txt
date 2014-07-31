@@ -1,0 +1,13 @@
+c:\users\ben\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\obj\Debug\TotallyInstaller.Resources.resources
+c:\users\ben\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\obj\Debug\TotallyInstaller.vbproj.GenerateResource.Cache
+C:\Users\Ben\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\bin\Debug\Install Totally.exe.config
+C:\Users\Ben\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\bin\Debug\Install Totally.exe
+C:\Users\Ben\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\bin\Debug\Install Totally.pdb
+C:\Users\Ben\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\bin\Debug\Install Totally.xml
+C:\Users\Ben\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\obj\Debug\Install Totally.exe
+C:\Users\Ben\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\obj\Debug\Install Totally.xml
+C:\Users\Ben\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\obj\Debug\Install Totally.pdb
+E:\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\bin\Debug\Install Totally.exe.config
+E:\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\obj\Debug\Install Totally.exe
+E:\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\obj\Debug\Install Totally.xml
+E:\Documents\Developer\Visual Studio 2013\Projects\TotallyInstaller\TotallyInstaller\obj\Debug\Install Totally.pdb
